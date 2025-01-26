@@ -1,9 +1,0 @@
-Findfit Function in Mathematica:
-
-First Method: Principal component analysis (PCA) : Replacing all the features (parameters) with lesser number of new features.
-Second Method: Ordinary Least Square (OLS) : Finding least square fit for linear or nonlinear case.
-Third Method: Gradient Descent : Iterative Methods to minimize the error using different methods (Eg. Newton-Raphson Method)
-
-
-Second Approach
-Regularization methods: LASSO or Ridge regression
